@@ -27,3 +27,6 @@ git log:
 The `git log` command displays a detailed history of commits. It provides information about the author, date, and commit message of each commit. For example:
 
 //This is my commit message to my own personal repo
+commit #1 to test commit on a new branch
+
+//This is my coomit to my new branch
