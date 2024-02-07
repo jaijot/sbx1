@@ -30,3 +30,4 @@ The `git log` command displays a detailed history of commits. It provides inform
 commit #1 to test commit on a new branch
 
 //This is my coomit to my new branch
+commit2
